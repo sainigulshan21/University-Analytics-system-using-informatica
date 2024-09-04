@@ -1,0 +1,9 @@
+DEPARTMENT_NAME|DEPARTMENT_N0|DEPARTMENT_PHONE|DEPARTMENT_HEAD
+Electronics  Communication Engineering|451234|1234567890|John Smith
+Computer Science and Engineering|789345|9876543210|Emily Johnson
+Mechanical Engineering%|789123|4567891230|Michael Davis
+Information Technology|658921|6543219870|Sarah Wilson
+Electrical Engineering|123900|7891234560|Jennifer Lee
+Civil Engineering|675231|3210987654|Amanda Clark
+Electrical and Instrumentation|552379|9876543210|Rachel dada
+

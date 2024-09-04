@@ -1,0 +1,41 @@
+COURSE_CODE,COURSE_NAME,DEPARTMENT_NO,MARK_REQ
+101,Introduction to Engineering,451234,70
+102,Engineering Mathematics,451234,75
+103,Physics for Engineers,451234,80
+104,Computer Programming,789345,70
+105,Circuit Analysis,451234,75 
+106,Mechanical Engineering,789123,80
+107,Materials Science,789123,70
+108,Thermodynamics,451234,75
+109,EE,552379,80
+110,Civil Engineering,451234,70
+111,Environmental ,552379,75
+112,Industrial Engineering,789345,80
+113,Engineering Design,552379,70
+114,Control Systems,789345,75
+115,Robotics,552379,80
+116,Biomedical Engineering,789345,70
+117,Aerospace Engineering,552379,75 
+118,Chemical Engineering,789345,80
+119,Nuclear Engineering,675231,70
+120,Petroleum Engineering,675231,75
+121,Software Engineering,789345,80
+122,Data Science,675231,70
+123,Machine Learning,789123,75
+124,Electrical Power Systems,675231,80
+125,Renewable Energy,789123,70
+126,Structural Engineering,123900,75
+127,Transportation Engineering,789123,80
+128,Geotechnical Engineering,658921,70
+129,Water Resources Engineering,789123,75
+130,Surveying,675231,80
+131,Urban Planning,789123,70
+132,Communication E.,675231,75
+133,Optical Engineering,658921,80
+134,Acoustical Engineering,123900,70
+135,Systems Engineering,658921,75
+136,Nuclear Physics,123900,80
+137,Quantum Mechanics,658921,70
+138,Nanotechnology,123900,75
+139,Industrial Automation,658921,80
+140,Engineering Ethics,123900,70
